@@ -62,7 +62,9 @@ our %tagmap = (
     MUSICBRAINZ_SORTNAME => 'sortname',
     RELEASECOUNTRY => 'countrycode',
     MUSICIP_PUID => 'mip_puid',
-    MUSICBRAINZ_ALBUMARTIST => 'albumartist'
+    MUSICBRAINZ_ALBUMARTIST => 'albumartist',
+    ALBUMARTIST => 'albumartist',
+    ENCODER => 'encoder'
 );
 
 sub set_values {
