@@ -64,7 +64,8 @@ our %tagmap = (
     MUSICIP_PUID => 'mip_puid',
     MUSICBRAINZ_ALBUMARTIST => 'albumartist',
     ALBUMARTIST => 'albumartist',
-    ENCODER => 'encoder'
+    ENCODER => 'encoder',
+    MQAENCODER => 'mqaencoder'
 );
 
 sub set_values {
