@@ -65,7 +65,8 @@ our %tagmap = (
     MUSICBRAINZ_ALBUMARTIST => 'albumartist',
     ALBUMARTIST => 'albumartist',
     ENCODER => 'encoder',
-    MQAENCODER => 'mqaencoder'
+    MQAENCODER => 'mqaencoder',
+    ORIGINALSAMPLERATE => 'original_samplerate'
 );
 
 sub set_values {
